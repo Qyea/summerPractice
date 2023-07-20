@@ -1,0 +1,23 @@
+{ "cars" :[
+  {
+      "id": 1,
+      "name": "Toyota Camry",
+      "price": 123456.789,
+      "image": "http://localhost:4200/images/2.jpg" 
+      
+  },
+  {
+      "id": 2,
+      "name": "Honda civic",
+      "price": 75456.989,
+      "image": "http://localhost:4200/images/1.jpg"
+      
+  },
+  {
+      "id": 3,
+      "name": "Bmw 3 series",
+      "image": "http://localhost:4200/images/3b.jpg",
+      "price": 133776.312
+  }
+]
+}

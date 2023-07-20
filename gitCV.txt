@@ -1,0 +1,3 @@
+https://github.com/sbayd/react-cv/tree/master
+
+https://it-dev-journal.ru/articles/voprosy-i-otvety-react-sobesedovaniya-2023-chast-1
